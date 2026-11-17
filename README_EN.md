@@ -27,6 +27,8 @@ oak-contributions/
 └── contributions/                      # Contribution details
     └── 01-issue-83-scopes-nan-inf/     # Issue #83: Non-finite sample safety
         ├── README.md                   # Technical breakdown & test notes
+        ├── 课堂笔记_IEEE754与示波器数学防御.md # In-depth study notes (Markdown)
+        ├── 课堂笔记_IEEE754与示波器数学防御.pdf # Typeset study notes archive (A4 PDF)
         ├── math.rs                     # Updated implementation & unit tests
         └── scopes-nan-inf.patch        # Standalone Git patch
 ```

@@ -27,6 +27,8 @@ oak-contributions/
 └── contributions/                      # 贡献任务详情归档
     └── 01-issue-83-scopes-nan-inf/     # Issue #83 示波器数学算法防御
         ├── README.md                   # 详细技术复盘与根因分析
+        ├── 课堂笔记_IEEE754与示波器数学防御.md # 深度学习复盘笔记 (Markdown)
+        ├── 课堂笔记_IEEE754与示波器数学防御.pdf # 精致排版留档版 (A4 高清 PDF)
         ├── math.rs                     # 修复后的完整源码与测试用例
         └── scopes-nan-inf.patch        # 独立的 Git Patch 补丁文件
 ```
